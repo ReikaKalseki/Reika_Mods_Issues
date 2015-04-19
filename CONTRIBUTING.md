@@ -1,5 +1,7 @@
 <b>For issues:</b>
 
-Include a crash report (if possible) and a FML log. Read through the crash report before posting! If you have modified the mod using tools like Minetweaker, try to reproduce the bug without other mods.
+* For all issues: Make sure you are using the latest version! If you are using an old modpack, your version is very likely old and you need to update.
 
-By posting a feature request, you give me an irrevocable and unconditional permission to implement and use the feature.
+* Read all open issues before you post yours - noone benefits from 160 copies of the same bug report.
+
+* If your issue involves a crash, you <i>must</i> include crash report or a loading log (the former is preferred).
