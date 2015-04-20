@@ -9,3 +9,5 @@
 * If your issue is lag or FPS related, include some form of profiling data; "it lags" is worthless for support.
 
 * If your issue is something is not working, <i>include screenshots</i> to rule out user error and to track down potential bugs.
+
+* Please post all logs, crash reports and long modlists in Pastebin.
