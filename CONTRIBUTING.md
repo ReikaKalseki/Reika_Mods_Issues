@@ -10,4 +10,4 @@
 
 * If your issue is something is not working, <i>include screenshots</i> to rule out user error and to track down potential bugs.
 
-* Please post all logs, crash reports and long modlists in Pastebin.
+* Please use [Pastebin](http://pastebin.com) or a similar service for posting crash reports, logs, modlists or other long documents.
