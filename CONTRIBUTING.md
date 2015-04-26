@@ -4,7 +4,7 @@
 
 * Read all open issues before you post yours - noone benefits from 160 copies of the same bug report.
 
-* If you're issue involves a log, please include the full log, not just parts of it.
+* If your issue involves a log, please include the full log, not just parts of it.
 
 * If your issue involves a crash, you <i>must</i> include crash report or a loading log (the former is preferred). Please read through the crash report before submitting.
 
